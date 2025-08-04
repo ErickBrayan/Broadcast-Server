@@ -12,19 +12,19 @@ This is a simple broadcast server that will allow clients to connect to it, send
 ## Installation
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/ErickBrayan/Expense-Tracker.git
+   ```bash https://github.com/ErickBrayan/Broadcast-Server.git
+   git clone 
 
 2. **Change Directory:**
    ```bash
-   cd Expense-Tracker/src
+   cd sockets/src
 
 3. **Compile the source code:**
     ```bash
-   javac expensetracker.java
+   javac BroadcastApp.java
 4. **Run the application:**
     ```bash
-   java expensetracker add --description <description> --amount <amount>
+   java BroadcastApp start/connnet
    ```
 
 ## Usage
@@ -38,3 +38,5 @@ java BroadcastApp connect
 
 
 ![Capture](/Capture.png)
+
+https://roadmap.sh/projects/broadcast-server
