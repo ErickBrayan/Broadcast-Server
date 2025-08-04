@@ -24,7 +24,7 @@ This is a simple broadcast server that will allow clients to connect to it, send
    javac BroadcastApp.java
 4. **Run the application:**
     ```bash
-   java BroadcastApp start/connnet
+   java BroadcastApp start/connect
    ```
 
 ## Usage
