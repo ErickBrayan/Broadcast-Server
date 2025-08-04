@@ -12,8 +12,8 @@ This is a simple broadcast server that will allow clients to connect to it, send
 ## Installation
 
 1. **Clone the repository:**
-   ```bash https://github.com/ErickBrayan/Broadcast-Server.git
-   git clone 
+   ```bash
+   git clone https://github.com/ErickBrayan/Broadcast-Server.git 
 
 2. **Change Directory:**
    ```bash
